@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@modelcontextprotocol/sdk": "npm:@modelcontextprotocol/sdk@1.0.3",
+    "axios": "npm:axios@^1.7.9",
+    "jsonwebtoken": "npm:jsonwebtoken@^9.0.2",
+    "zod": "npm:zod@^3.24.0",
+    "zod-to-json-schema": "npm:zod-to-json-schema@^3.23.5"
+  }
+}

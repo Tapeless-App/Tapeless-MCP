@@ -1,0 +1,5 @@
+{
+  "deno.enable": true,
+  "deno.path": "/opt/homebrew/bin/deno",
+  "deno.lint": true
+}
